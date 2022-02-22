@@ -1,0 +1,2365 @@
+# depslib dependency file v1.0
+1540944642 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1540944642 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1540944642 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1540944642 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\adn-x\clserror.h
+
+1540944642 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1540944642 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\adn-x\clsdot.h
+	"adnConsts.h"
+
+1540944642 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1540944642 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1540944642 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\adn-x\clsevent.h
+	"adnConsts.h"
+
+1540944642 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1540944642 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1540944642 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\adn-x\clslog.cpp
+	"clsLog.h"
+
+1540944642 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\adn-x\clslog.h
+	<cstdio>
+
+1540944642 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1540944640 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1540944640 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1540944640 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1540944640 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1540944640 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1540944640 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1540944640 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1540944640 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1540944640 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1540944640 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1540944640 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1540944640 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\adn-x\clstext.cpp
+	"clsText.h"
+
+1540944640 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1540944640 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1540944640 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\adn-x\clstimer.h
+	"clsEvent.h"
+
+1540944616 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	<clsMotor.h>
+
+1540944694 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\src\clspalabra.cpp
+	"clsPalabra.h"
+	<string.h>
+
+1540944694 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\include\clspalabra.h
+
+1540947754 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\src\clsjuego.cpp
+	"clsJuego.h"
+	<stdio.h>
+	<string.h>
+
+1540947704 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\include\clsjuego.h
+	<clsError.h>
+	<clsScreen.h>
+	<clsText.h>
+	<clsEvent.h>
+	"clsSopa.h"
+	"clsLetra.h"
+	"clsPalabra.h"
+
+1540944694 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\include\clssopa.h
+	<clsError.h>
+	<clsPalabra.h>
+
+1541171481 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\src\clssopa.cpp
+	"clsSopa.h"
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
+1541174538 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\include\clsmotor.h
+	<clsEvent.h>
+	<clsMode.h>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsPresent.h>
+	<clsTimer.h>
+	"clsJuego.h"
+	<clsMenu.h>
+
+1541174720 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\src\clsmotor.cpp
+	"clsMotor.h"
+
+1540944694 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\include\clsletra.h
+	<clsScreen.h>
+	<clsText.h>
+	<adnConsts.h>
+
+1540944694 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\src\clsletra.cpp
+	"clsLetra.h"
+
+1540944642 source:c:\users\maxi_\desktop\sopadeletras\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1540944642 c:\users\maxi_\desktop\sopadeletras\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1540944642 c:\users\maxi_\desktop\sopadeletras\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1540944642 c:\users\maxi_\desktop\sopadeletras\adn-x\clserror.h
+
+1540944642 source:c:\users\maxi_\desktop\sopadeletras\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1540944642 c:\users\maxi_\desktop\sopadeletras\adn-x\clsdot.h
+	"adnConsts.h"
+
+1540944642 source:c:\users\maxi_\desktop\sopadeletras\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1540944642 source:c:\users\maxi_\desktop\sopadeletras\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1540944642 c:\users\maxi_\desktop\sopadeletras\adn-x\clsevent.h
+	"adnConsts.h"
+
+1540944642 source:c:\users\maxi_\desktop\sopadeletras\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1540944642 c:\users\maxi_\desktop\sopadeletras\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1540944642 source:c:\users\maxi_\desktop\sopadeletras\adn-x\clslog.cpp
+	"clsLog.h"
+
+1540944642 c:\users\maxi_\desktop\sopadeletras\adn-x\clslog.h
+	<cstdio>
+
+1540944642 source:c:\users\maxi_\desktop\sopadeletras\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1540944640 c:\users\maxi_\desktop\sopadeletras\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1540944640 source:c:\users\maxi_\desktop\sopadeletras\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1540944640 c:\users\maxi_\desktop\sopadeletras\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1540944640 source:c:\users\maxi_\desktop\sopadeletras\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1540944640 c:\users\maxi_\desktop\sopadeletras\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1540944640 source:c:\users\maxi_\desktop\sopadeletras\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1540944640 c:\users\maxi_\desktop\sopadeletras\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1540944640 source:c:\users\maxi_\desktop\sopadeletras\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1540944640 c:\users\maxi_\desktop\sopadeletras\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1540944640 source:c:\users\maxi_\desktop\sopadeletras\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1540944640 c:\users\maxi_\desktop\sopadeletras\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1540944640 source:c:\users\maxi_\desktop\sopadeletras\adn-x\clstext.cpp
+	"clsText.h"
+
+1540944640 c:\users\maxi_\desktop\sopadeletras\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1540944640 source:c:\users\maxi_\desktop\sopadeletras\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1540944640 c:\users\maxi_\desktop\sopadeletras\adn-x\clstimer.h
+	"clsEvent.h"
+
+1540944616 source:c:\users\maxi_\desktop\sopadeletras\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	<clsMotor.h>
+
+1540946318 c:\users\maxi_\desktop\sopadeletras\include\clsmotor.h
+	<clsEvent.h>
+	<clsMode.h>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clspresent.h>
+	<clsTimer.h>
+	"clsJuego.h"
+	<clsMenu.h>
+
+1540944694 c:\users\maxi_\desktop\sopadeletras\include\clspresent.h
+	<clsSprite.h>
+	<clsScreen.h>
+
+1540947704 c:\users\maxi_\desktop\sopadeletras\include\clsjuego.h
+	<clsError.h>
+	<clsScreen.h>
+	<clsText.h>
+	<clsEvent.h>
+	"clsSopa.h"
+	"clsLetra.h"
+	"clsPalabra.h"
+
+1540944694 c:\users\maxi_\desktop\sopadeletras\include\clssopa.h
+	<clsError.h>
+	<clsPalabra.h>
+
+1540944694 c:\users\maxi_\desktop\sopadeletras\include\clspalabra.h
+
+1540944694 c:\users\maxi_\desktop\sopadeletras\include\clsletra.h
+	<clsScreen.h>
+	<clsText.h>
+	<adnConsts.h>
+
+1540947754 source:c:\users\maxi_\desktop\sopadeletras\src\clsjuego.cpp
+	"clsJuego.h"
+	<stdio.h>
+	<string.h>
+
+1540944694 source:c:\users\maxi_\desktop\sopadeletras\src\clspalabra.cpp
+	"clsPalabra.h"
+	<string.h>
+
+1540949022 source:c:\users\maxi_\desktop\sopadeletras\src\clssopa.cpp
+	"clsSopa.h"
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
+1540944694 source:c:\users\maxi_\desktop\sopadeletras\src\clsletra.cpp
+	"clsLetra.h"
+
+1541127030 source:c:\users\maxi_\desktop\sopadeletras\src\clsmenu.cpp
+	"clsMenu.h"
+
+1541126881 c:\users\maxi_\desktop\sopadeletras\include\clsmenu.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<clsError.h>
+	<clspresent.h>
+	<clsBoton.h>
+
+1540947632 source:c:\users\maxi_\desktop\sopadeletras\src\clsmotor.cpp
+	"clsMotor.h"
+
+1540944694 source:c:\users\maxi_\desktop\sopadeletras\src\clspresent.cpp
+	"clspresent.h"
+
+1540944694 c:\users\maxi_\desktop\sopadeletras\include\clsboton.h
+	<clspresent.h>
+
+1540944694 source:c:\users\maxi_\desktop\sopadeletras\src\clsboton.cpp
+	<clsBoton.h>
+
+1539732334 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1539732334 c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1539732334 c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1539732332 c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\adn-x\clserror.h
+
+1539732334 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1539732334 c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\adn-x\clsdot.h
+	"adnConsts.h"
+
+1539732334 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1539732332 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1539732332 c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\adn-x\clsevent.h
+	"adnConsts.h"
+
+1539732332 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1539732332 c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1539732332 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\adn-x\clslog.cpp
+	"clsLog.h"
+
+1539732332 c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\adn-x\clslog.h
+	<cstdio>
+
+1539732332 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1539732332 c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1539732332 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1539732332 c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1539732332 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1539732332 c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1539732332 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1539732332 c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1539732332 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1539732332 c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1539732332 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1539732332 c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1539732332 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\adn-x\clstext.cpp
+	"clsText.h"
+
+1539732332 c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1539732332 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1539732332 c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\adn-x\clstimer.h
+	"clsEvent.h"
+
+1540260262 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	<clsMotor.h>
+
+1540935501 c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\include\clsmotor.h
+	<clsEvent.h>
+	<clsMode.h>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clspresent.h>
+	<clsTimer.h>
+	"clsJuego.h"
+	<clsMenu.h>
+
+1540662924 c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\include\clspresent.h
+	<clsSprite.h>
+	<clsScreen.h>
+
+1540936892 c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\include\clsjuego.h
+	<clsError.h>
+	<clsScreen.h>
+	<clsText.h>
+	<clsEvent.h>
+	"clsSopa.h"
+	"clsLetra.h"
+	"clsPalabra.h"
+
+1540487382 c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\include\clssopa.h
+	<clsError.h>
+	<clsPalabra.h>
+
+1540487380 c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\include\clspalabra.h
+
+1540487380 c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\include\clsletra.h
+	<clsScreen.h>
+	<clsText.h>
+	<adnConsts.h>
+
+1540679670 c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\include\clsmenu.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<clsError.h>
+	<clspresent.h>
+	<clsBoton.h>
+
+1540679616 c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\include\clsboton.h
+	<clspresent.h>
+
+1540679646 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\src\clsboton.cpp
+	<clsBoton.h>
+
+1540936941 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\src\clsjuego.cpp
+	"clsJuego.h"
+	<stdio.h>
+	<string.h>
+
+1540487396 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\src\clsletra.cpp
+	"clsLetra.h"
+
+1540765542 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\src\clsmenu.cpp
+	"clsMenu.h"
+
+1540936818 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\src\clsmotor.cpp
+	"clsMotor.h"
+
+1540229876 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\src\clspalabra.cpp
+	"clsPalabra.h"
+	<string.h>
+
+1540674136 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\src\clspresent.cpp
+	"clspresent.h"
+
+1540938205 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\actualizacion sopa\sopadeletras\src\clssopa.cpp
+	"clsSopa.h"
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
+1540944642 source:c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1540944642 c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1540944642 c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1540944642 c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\adn-x\clserror.h
+
+1540944642 source:c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1540944642 c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\adn-x\clsdot.h
+	"adnConsts.h"
+
+1540944642 source:c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1540944642 source:c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1540944642 c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\adn-x\clsevent.h
+	"adnConsts.h"
+
+1540944642 source:c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1540944642 c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1540944642 source:c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\adn-x\clslog.cpp
+	"clsLog.h"
+
+1540944642 c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\adn-x\clslog.h
+	<cstdio>
+
+1540944642 source:c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1540944640 c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1540944640 source:c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1540944640 c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1540944640 source:c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1540944640 c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1540944640 source:c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1540944640 c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1540944640 source:c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1540944640 c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1540944640 source:c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1540944640 c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1540944640 source:c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\adn-x\clstext.cpp
+	"clsText.h"
+
+1540944640 c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1540944640 source:c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1540944640 c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\adn-x\clstimer.h
+	"clsEvent.h"
+
+1540944616 source:c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	<clsMotor.h>
+
+1540946318 c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\include\clsmotor.h
+	<clsEvent.h>
+	<clsMode.h>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clspresent.h>
+	<clsTimer.h>
+	"clsJuego.h"
+	<clsMenu.h>
+
+1540944694 c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\include\clspresent.h
+	<clsSprite.h>
+	<clsScreen.h>
+
+1540947704 c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\include\clsjuego.h
+	<clsError.h>
+	<clsScreen.h>
+	<clsText.h>
+	<clsEvent.h>
+	"clsSopa.h"
+	"clsLetra.h"
+	"clsPalabra.h"
+
+1540944694 c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\include\clssopa.h
+	<clsError.h>
+	<clsPalabra.h>
+
+1540944694 c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\include\clspalabra.h
+
+1540944694 c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\include\clsletra.h
+	<clsScreen.h>
+	<clsText.h>
+	<adnConsts.h>
+
+1541126881 c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\include\clsmenu.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<clsError.h>
+	<clspresent.h>
+	<clsBoton.h>
+
+1540944694 c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\include\clsboton.h
+	<clspresent.h>
+
+1540944694 source:c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\src\clsboton.cpp
+	<clsBoton.h>
+
+1540947754 source:c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\src\clsjuego.cpp
+	"clsJuego.h"
+	<stdio.h>
+	<string.h>
+
+1540944694 source:c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\src\clsletra.cpp
+	"clsLetra.h"
+
+1541127030 source:c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\src\clsmenu.cpp
+	"clsMenu.h"
+
+1540947632 source:c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\src\clsmotor.cpp
+	"clsMotor.h"
+
+1540944694 source:c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\src\clspalabra.cpp
+	"clsPalabra.h"
+	<string.h>
+
+1540944694 source:c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\src\clspresent.cpp
+	"clspresent.h"
+
+1540949022 source:c:\users\flia molina\desktop\ultimaversionsopa\sopadeletras\src\clssopa.cpp
+	"clsSopa.h"
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
+1541171362 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\include\clspresent.h
+	<clsSprite.h>
+	<clsScreen.h>
+
+1541171328 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\include\clsmenu.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<clsError.h>
+	<clsPresent.h>
+	<clsBoton.h>
+
+1541171328 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\include\clsboton.h
+	<clsPresent.h>
+
+1540944694 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\src\clsboton.cpp
+	<clsBoton.h>
+
+1541127030 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\src\clsmenu.cpp
+	"clsMenu.h"
+
+1541171328 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopadeletras\src\clspresent.cpp
+	"clsPresent.h"
+
+1541182132 source:c:\users\maxi_\desktop\nueva carpeta\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1541182130 c:\users\maxi_\desktop\nueva carpeta\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541182132 c:\users\maxi_\desktop\nueva carpeta\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1541182128 c:\users\maxi_\desktop\nueva carpeta\adn-x\clserror.h
+
+1541182130 source:c:\users\maxi_\desktop\nueva carpeta\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1541182130 c:\users\maxi_\desktop\nueva carpeta\adn-x\clsdot.h
+	"adnConsts.h"
+
+1541182128 source:c:\users\maxi_\desktop\nueva carpeta\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1541182128 source:c:\users\maxi_\desktop\nueva carpeta\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1541182126 c:\users\maxi_\desktop\nueva carpeta\adn-x\clsevent.h
+	"adnConsts.h"
+
+1541182126 source:c:\users\maxi_\desktop\nueva carpeta\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1541182126 c:\users\maxi_\desktop\nueva carpeta\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1541182124 source:c:\users\maxi_\desktop\nueva carpeta\adn-x\clslog.cpp
+	"clsLog.h"
+
+1541182124 c:\users\maxi_\desktop\nueva carpeta\adn-x\clslog.h
+	<cstdio>
+
+1541182122 source:c:\users\maxi_\desktop\nueva carpeta\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1541182122 c:\users\maxi_\desktop\nueva carpeta\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541182122 source:c:\users\maxi_\desktop\nueva carpeta\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1541182120 c:\users\maxi_\desktop\nueva carpeta\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541182120 source:c:\users\maxi_\desktop\nueva carpeta\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1541182120 c:\users\maxi_\desktop\nueva carpeta\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1541182118 source:c:\users\maxi_\desktop\nueva carpeta\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1541182118 c:\users\maxi_\desktop\nueva carpeta\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541182118 source:c:\users\maxi_\desktop\nueva carpeta\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1541182116 c:\users\maxi_\desktop\nueva carpeta\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541182116 source:c:\users\maxi_\desktop\nueva carpeta\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1541182114 c:\users\maxi_\desktop\nueva carpeta\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1541182114 source:c:\users\maxi_\desktop\nueva carpeta\adn-x\clstext.cpp
+	"clsText.h"
+
+1541182114 c:\users\maxi_\desktop\nueva carpeta\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541182112 source:c:\users\maxi_\desktop\nueva carpeta\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1541182112 c:\users\maxi_\desktop\nueva carpeta\adn-x\clstimer.h
+	"clsEvent.h"
+
+1541182112 source:c:\users\maxi_\desktop\nueva carpeta\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	<clsMotor.h>
+
+1541185362 c:\users\maxi_\desktop\nueva carpeta\include\clsmotor.h
+	<clsEvent.h>
+	<clsMode.h>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsPresent.h>
+	<clsTimer.h>
+	"clsJuego.h"
+	<clsMenu.h>
+
+1541182238 c:\users\maxi_\desktop\nueva carpeta\include\clspresent.h
+	<clsSprite.h>
+	<clsScreen.h>
+
+1541182236 c:\users\maxi_\desktop\nueva carpeta\include\clsjuego.h
+	<clsError.h>
+	<clsScreen.h>
+	<clsText.h>
+	<clsEvent.h>
+	"clsSopa.h"
+	"clsLetra.h"
+	"clsPalabra.h"
+
+1541182144 c:\users\maxi_\desktop\nueva carpeta\include\clssopa.h
+	<clsError.h>
+	<clsPalabra.h>
+
+1541182144 c:\users\maxi_\desktop\nueva carpeta\include\clspalabra.h
+
+1541182146 c:\users\maxi_\desktop\nueva carpeta\include\clsletra.h
+	<clsScreen.h>
+	<clsText.h>
+	<adnConsts.h>
+
+1541469250 c:\users\maxi_\desktop\nueva carpeta\include\clsmenu.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<clsError.h>
+	<clsPresent.h>
+	<clsBoton.h>
+	<clsTimer.h>
+
+1541182238 c:\users\maxi_\desktop\nueva carpeta\include\clsboton.h
+	<clsPresent.h>
+
+1541182234 source:c:\users\maxi_\desktop\nueva carpeta\src\clsboton.cpp
+	<clsBoton.h>
+
+1541182236 source:c:\users\maxi_\desktop\nueva carpeta\src\clsjuego.cpp
+	"clsJuego.h"
+	<stdio.h>
+	<string.h>
+
+1541182146 source:c:\users\maxi_\desktop\nueva carpeta\src\clsletra.cpp
+	"clsLetra.h"
+
+1541182146 source:c:\users\maxi_\desktop\nueva carpeta\src\clspalabra.cpp
+	"clsPalabra.h"
+	<string.h>
+
+1541182238 source:c:\users\maxi_\desktop\nueva carpeta\src\clspresent.cpp
+	"clsPresent.h"
+
+1541182314 source:c:\users\maxi_\desktop\nueva carpeta\src\clssopa.cpp
+	"clsSopa.h"
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
+1541203434 source:c:\users\maxi_\desktop\nueva carpeta\src\clsmotor.cpp
+	"clsMotor.h"
+
+1541373435 source:c:\users\maxi_\desktop\nueva carpeta\src\clsmenu.cpp
+	"clsMenu.h"
+
+1541182132 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1541182130 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541182132 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1541182128 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\adn-x\clserror.h
+
+1541182130 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1541182130 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\adn-x\clsdot.h
+	"adnConsts.h"
+
+1541182128 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1541182128 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1541182126 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\adn-x\clsevent.h
+	"adnConsts.h"
+
+1541182126 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1541182126 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1541182124 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\adn-x\clslog.cpp
+	"clsLog.h"
+
+1541182124 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\adn-x\clslog.h
+	<cstdio>
+
+1541182122 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1541182122 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541182122 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1541182120 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541182120 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1541182120 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1541182118 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1541182118 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541182118 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1541182116 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541182116 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1541182114 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1541182114 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\adn-x\clstext.cpp
+	"clsText.h"
+
+1541182114 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541182112 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1541182112 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\adn-x\clstimer.h
+	"clsEvent.h"
+
+1541182112 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	<clsMotor.h>
+
+1541510993 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\include\clsmotor.h
+	<clsEvent.h>
+	<clsMode.h>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsPresent.h>
+	<clsTimer.h>
+	"clsJuego.h"
+	<clsMenu.h>
+
+1541182238 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\include\clspresent.h
+	<clsSprite.h>
+	<clsScreen.h>
+
+1541510686 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\include\clsjuego.h
+	<clsError.h>
+	<clsScreen.h>
+	<clsText.h>
+	<clsEvent.h>
+	<clsTimer.h>
+	"clsSopa.h"
+	"clsLetra.h"
+	"clsPalabra.h"
+
+1541182144 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\include\clssopa.h
+	<clsError.h>
+	<clsPalabra.h>
+
+1541182144 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\include\clspalabra.h
+
+1541182146 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\include\clsletra.h
+	<clsScreen.h>
+	<clsText.h>
+	<adnConsts.h>
+
+1541511764 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\include\clsmenu.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<clsError.h>
+	<clsPresent.h>
+	<clsBoton.h>
+	<clsTimer.h>
+	"clsJuego.h"
+
+1541182238 c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\include\clsboton.h
+	<clsPresent.h>
+
+1541182234 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\src\clsboton.cpp
+	<clsBoton.h>
+
+1541511670 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\src\clsjuego.cpp
+	"clsJuego.h"
+	<stdio.h>
+	<string.h>
+
+1541182146 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\src\clsletra.cpp
+	"clsLetra.h"
+
+1541511348 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\src\clsmenu.cpp
+	"clsMenu.h"
+
+1541511485 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\src\clsmotor.cpp
+	"clsMotor.h"
+
+1541182146 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\src\clspalabra.cpp
+	"clsPalabra.h"
+	<string.h>
+
+1541182238 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\src\clspresent.cpp
+	"clsPresent.h"
+
+1541182314 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\sopaversionlunes5-11\nueva carpeta\src\clssopa.cpp
+	"clsSopa.h"
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
+1541517884 source:c:\users\maxi_\desktop\modsopa8-11\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1541517884 c:\users\maxi_\desktop\modsopa8-11\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541517884 c:\users\maxi_\desktop\modsopa8-11\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1541517884 c:\users\maxi_\desktop\modsopa8-11\adn-x\clserror.h
+
+1541517884 source:c:\users\maxi_\desktop\modsopa8-11\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1541517884 c:\users\maxi_\desktop\modsopa8-11\adn-x\clsdot.h
+	"adnConsts.h"
+
+1541517884 source:c:\users\maxi_\desktop\modsopa8-11\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1541517882 source:c:\users\maxi_\desktop\modsopa8-11\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1541517882 c:\users\maxi_\desktop\modsopa8-11\adn-x\clsevent.h
+	"adnConsts.h"
+
+1541517882 source:c:\users\maxi_\desktop\modsopa8-11\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1541517882 c:\users\maxi_\desktop\modsopa8-11\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1541517882 source:c:\users\maxi_\desktop\modsopa8-11\adn-x\clslog.cpp
+	"clsLog.h"
+
+1541517882 c:\users\maxi_\desktop\modsopa8-11\adn-x\clslog.h
+	<cstdio>
+
+1541517882 source:c:\users\maxi_\desktop\modsopa8-11\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1541517882 c:\users\maxi_\desktop\modsopa8-11\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541517882 source:c:\users\maxi_\desktop\modsopa8-11\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1541517882 c:\users\maxi_\desktop\modsopa8-11\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541517882 source:c:\users\maxi_\desktop\modsopa8-11\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1541517882 c:\users\maxi_\desktop\modsopa8-11\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1541517882 source:c:\users\maxi_\desktop\modsopa8-11\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1541517882 c:\users\maxi_\desktop\modsopa8-11\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541517882 source:c:\users\maxi_\desktop\modsopa8-11\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1541517882 c:\users\maxi_\desktop\modsopa8-11\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541517882 source:c:\users\maxi_\desktop\modsopa8-11\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1541517882 c:\users\maxi_\desktop\modsopa8-11\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1541517882 source:c:\users\maxi_\desktop\modsopa8-11\adn-x\clstext.cpp
+	"clsText.h"
+
+1541517882 c:\users\maxi_\desktop\modsopa8-11\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541517882 source:c:\users\maxi_\desktop\modsopa8-11\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1541517868 c:\users\maxi_\desktop\modsopa8-11\adn-x\clstimer.h
+	"clsEvent.h"
+
+1541517866 source:c:\users\maxi_\desktop\modsopa8-11\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	<clsMotor.h>
+
+1541652248 c:\users\maxi_\desktop\modsopa8-11\include\clsmotor.h
+	<clsEvent.h>
+	<clsMode.h>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsPresent.h>
+	<clsTimer.h>
+	"clsJuego.h"
+	<clsMenu.h>
+	<clsdespedida.h>
+
+1541517912 c:\users\maxi_\desktop\modsopa8-11\include\clspresent.h
+	<clsSprite.h>
+	<clsScreen.h>
+
+1541521512 c:\users\maxi_\desktop\modsopa8-11\include\clsjuego.h
+	<clsError.h>
+	<clsScreen.h>
+	<clsText.h>
+	<clsEvent.h>
+	<clsTimer.h>
+	"clsSopa.h"
+	"clsLetra.h"
+	"clsPalabra.h"
+
+1541517912 c:\users\maxi_\desktop\modsopa8-11\include\clssopa.h
+	<clsError.h>
+	<clsPalabra.h>
+
+1541517912 c:\users\maxi_\desktop\modsopa8-11\include\clspalabra.h
+
+1541517912 c:\users\maxi_\desktop\modsopa8-11\include\clsletra.h
+	<clsScreen.h>
+	<clsText.h>
+	<adnConsts.h>
+
+1541652607 c:\users\maxi_\desktop\modsopa8-11\include\clsmenu.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<clsError.h>
+	<clsPresent.h>
+	<clsBoton.h>
+	<clsTimer.h>
+	<clsdespedida.h>
+	"clsJuego.h"
+
+1541517912 c:\users\maxi_\desktop\modsopa8-11\include\clsboton.h
+	<clsPresent.h>
+
+1541517914 source:c:\users\maxi_\desktop\modsopa8-11\src\clsboton.cpp
+	<clsBoton.h>
+
+1541522492 source:c:\users\maxi_\desktop\modsopa8-11\src\clsjuego.cpp
+	"clsJuego.h"
+	<stdio.h>
+	<string.h>
+
+1541517914 source:c:\users\maxi_\desktop\modsopa8-11\src\clsletra.cpp
+	"clsLetra.h"
+
+1541652423 source:c:\users\maxi_\desktop\modsopa8-11\src\clsmenu.cpp
+	"clsMenu.h"
+
+1541652523 source:c:\users\maxi_\desktop\modsopa8-11\src\clsmotor.cpp
+	"clsMotor.h"
+
+1541517912 source:c:\users\maxi_\desktop\modsopa8-11\src\clspalabra.cpp
+	"clsPalabra.h"
+	<string.h>
+
+1541517912 source:c:\users\maxi_\desktop\modsopa8-11\src\clspresent.cpp
+	"clsPresent.h"
+
+1541517912 source:c:\users\maxi_\desktop\modsopa8-11\src\clssopa.cpp
+	"clsSopa.h"
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
+1541651790 source:c:\users\maxi_\desktop\modsopa8-11\src\clsdespedida.cpp
+	"clsdespedida.h"
+
+1541651790 c:\users\maxi_\desktop\modsopa8-11\include\clsdespedida.h
+	<clsSprite.h>
+	<clsScreen.h>
+
+1541517884 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1541517884 c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541517884 c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1541517884 c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\adn-x\clserror.h
+
+1541517884 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1541517884 c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\adn-x\clsdot.h
+	"adnConsts.h"
+
+1541517884 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1541517882 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1541517882 c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\adn-x\clsevent.h
+	"adnConsts.h"
+
+1541517882 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1541517882 c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1541517882 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\adn-x\clslog.cpp
+	"clsLog.h"
+
+1541517882 c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\adn-x\clslog.h
+	<cstdio>
+
+1541517882 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1541517882 c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541517882 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1541517882 c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541517882 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1541517882 c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1541517882 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1541517882 c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541517882 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1541517882 c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541517882 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1541517882 c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1541517882 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\adn-x\clstext.cpp
+	"clsText.h"
+
+1541517882 c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541517882 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1541517868 c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\adn-x\clstimer.h
+	"clsEvent.h"
+
+1541778524 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	<clsMotor.h>
+
+1541765732 c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\include\clsmotor.h
+	<clsEvent.h>
+	<clsMode.h>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsPresent.h>
+	<clsTimer.h>
+	"clsJuego.h"
+	<clsMenu.h>
+	<clsDespedida.h>
+
+1541517912 c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\include\clspresent.h
+	<clsSprite.h>
+	<clsScreen.h>
+
+1541763568 c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\include\clsjuego.h
+	<clsError.h>
+	<clsScreen.h>
+	<clsText.h>
+	<clsEvent.h>
+	<clsTimer.h>
+	"clsSopa.h"
+	"clsLetra.h"
+	"clsPalabra.h"
+	"clsReloj.h"
+	"clsRanking.h"
+
+1542141039 c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\include\clssopa.h
+	<clsError.h>
+	<clsRandom.h>
+	"clsPalabra.h"
+
+1542138549 c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\include\clspalabra.h
+
+1541517912 c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\include\clsletra.h
+	<clsScreen.h>
+	<clsText.h>
+	<adnConsts.h>
+
+1541765828 c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\include\clsmenu.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<clsError.h>
+	<clsPresent.h>
+	<clsBoton.h>
+	<clsTimer.h>
+	<clsDespedida.h>
+	"clsJuego.h"
+	"clsRanking.h"
+
+1541517912 c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\include\clsboton.h
+	<clsPresent.h>
+
+1541765732 c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\include\clsdespedida.h
+	<clsSprite.h>
+	<clsScreen.h>
+
+1541517914 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\src\clsboton.cpp
+	<clsBoton.h>
+
+1541765732 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1542139089 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\src\clsjuego.cpp
+	"clsJuego.h"
+	<stdio.h>
+	<string.h>
+
+1541517914 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\src\clsletra.cpp
+	"clsLetra.h"
+
+1542139835 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\src\clsmenu.cpp
+	"clsMenu.h"
+
+1542140481 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\src\clsmotor.cpp
+	"clsMotor.h"
+
+1542138464 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\src\clspalabra.cpp
+	"clsPalabra.h"
+	<string.h>
+
+1541517912 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\src\clspresent.cpp
+	"clsPresent.h"
+
+1542138810 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\src\clssopa.cpp
+	"clsSopa.h"
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1541680829 c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\include\clsreloj.h
+	<clsScreen.h>
+	<clsText.h>
+	<adnConsts.h>
+
+1541680852 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\src\clsreloj.cpp
+	"clsReloj.h"
+
+1541763413 c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\include\clsranking.h
+	<clsScreen.h>
+	<clsText.h>
+	<clsEvent.h>
+
+1541775692 source:c:\users\horacio bono\onedrive\alumnos\mauricio molina\modsopa8-11\modsopa8-11\src\clsranking.cpp
+	"clsRanking.h"
+
+1541517884 source:c:\users\maxi_\desktop\tplab2modosopa\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1541517884 c:\users\maxi_\desktop\tplab2modosopa\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541517884 c:\users\maxi_\desktop\tplab2modosopa\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1541517884 c:\users\maxi_\desktop\tplab2modosopa\adn-x\clserror.h
+
+1541517884 source:c:\users\maxi_\desktop\tplab2modosopa\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1541517884 c:\users\maxi_\desktop\tplab2modosopa\adn-x\clsdot.h
+	"adnConsts.h"
+
+1541517884 source:c:\users\maxi_\desktop\tplab2modosopa\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1541517882 source:c:\users\maxi_\desktop\tplab2modosopa\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1541517882 c:\users\maxi_\desktop\tplab2modosopa\adn-x\clsevent.h
+	"adnConsts.h"
+
+1541517882 source:c:\users\maxi_\desktop\tplab2modosopa\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1541517882 c:\users\maxi_\desktop\tplab2modosopa\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1541517882 source:c:\users\maxi_\desktop\tplab2modosopa\adn-x\clslog.cpp
+	"clsLog.h"
+
+1541517882 c:\users\maxi_\desktop\tplab2modosopa\adn-x\clslog.h
+	<cstdio>
+
+1541517882 source:c:\users\maxi_\desktop\tplab2modosopa\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1541517882 c:\users\maxi_\desktop\tplab2modosopa\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541517882 source:c:\users\maxi_\desktop\tplab2modosopa\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1541517882 c:\users\maxi_\desktop\tplab2modosopa\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541517882 source:c:\users\maxi_\desktop\tplab2modosopa\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1541517882 c:\users\maxi_\desktop\tplab2modosopa\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1541517882 source:c:\users\maxi_\desktop\tplab2modosopa\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1541517882 c:\users\maxi_\desktop\tplab2modosopa\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541517882 source:c:\users\maxi_\desktop\tplab2modosopa\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1541517882 c:\users\maxi_\desktop\tplab2modosopa\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541517882 source:c:\users\maxi_\desktop\tplab2modosopa\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1541517882 c:\users\maxi_\desktop\tplab2modosopa\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1541517882 source:c:\users\maxi_\desktop\tplab2modosopa\adn-x\clstext.cpp
+	"clsText.h"
+
+1541517882 c:\users\maxi_\desktop\tplab2modosopa\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541517882 source:c:\users\maxi_\desktop\tplab2modosopa\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1541517868 c:\users\maxi_\desktop\tplab2modosopa\adn-x\clstimer.h
+	"clsEvent.h"
+
+1541778524 source:c:\users\maxi_\desktop\tplab2modosopa\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	<clsMotor.h>
+
+1541765732 c:\users\maxi_\desktop\tplab2modosopa\include\clsmotor.h
+	<clsEvent.h>
+	<clsMode.h>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsPresent.h>
+	<clsTimer.h>
+	"clsJuego.h"
+	<clsMenu.h>
+	<clsDespedida.h>
+
+1541517912 c:\users\maxi_\desktop\tplab2modosopa\include\clspresent.h
+	<clsSprite.h>
+	<clsScreen.h>
+
+1542168422 c:\users\maxi_\desktop\tplab2modosopa\include\clsjuego.h
+	<clsError.h>
+	<clsScreen.h>
+	<clsText.h>
+	<clsEvent.h>
+	<clsTimer.h>
+	"clsSopa.h"
+	"clsLetra.h"
+	"clsPalabra.h"
+	"clsReloj.h"
+	"clsRanking.h"
+	"clspresent.h"
+
+1542141039 c:\users\maxi_\desktop\tplab2modosopa\include\clssopa.h
+	<clsError.h>
+	<clsRandom.h>
+	"clsPalabra.h"
+
+1542138549 c:\users\maxi_\desktop\tplab2modosopa\include\clspalabra.h
+
+1541517912 c:\users\maxi_\desktop\tplab2modosopa\include\clsletra.h
+	<clsScreen.h>
+	<clsText.h>
+	<adnConsts.h>
+
+1541680829 c:\users\maxi_\desktop\tplab2modosopa\include\clsreloj.h
+	<clsScreen.h>
+	<clsText.h>
+	<adnConsts.h>
+
+1541763413 c:\users\maxi_\desktop\tplab2modosopa\include\clsranking.h
+	<clsScreen.h>
+	<clsText.h>
+	<clsEvent.h>
+
+1541765828 c:\users\maxi_\desktop\tplab2modosopa\include\clsmenu.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<clsError.h>
+	<clsPresent.h>
+	<clsBoton.h>
+	<clsTimer.h>
+	<clsDespedida.h>
+	"clsJuego.h"
+	"clsRanking.h"
+
+1541517912 c:\users\maxi_\desktop\tplab2modosopa\include\clsboton.h
+	<clsPresent.h>
+
+1541765732 c:\users\maxi_\desktop\tplab2modosopa\include\clsdespedida.h
+	<clsSprite.h>
+	<clsScreen.h>
+
+1541517914 source:c:\users\maxi_\desktop\tplab2modosopa\src\clsboton.cpp
+	<clsBoton.h>
+
+1541765732 source:c:\users\maxi_\desktop\tplab2modosopa\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1541517914 source:c:\users\maxi_\desktop\tplab2modosopa\src\clsletra.cpp
+	"clsLetra.h"
+
+1542139835 source:c:\users\maxi_\desktop\tplab2modosopa\src\clsmenu.cpp
+	"clsMenu.h"
+
+1542140481 source:c:\users\maxi_\desktop\tplab2modosopa\src\clsmotor.cpp
+	"clsMotor.h"
+
+1542138464 source:c:\users\maxi_\desktop\tplab2modosopa\src\clspalabra.cpp
+	"clsPalabra.h"
+	<string.h>
+
+1541517912 source:c:\users\maxi_\desktop\tplab2modosopa\src\clspresent.cpp
+	"clsPresent.h"
+
+1541775692 source:c:\users\maxi_\desktop\tplab2modosopa\src\clsranking.cpp
+	"clsRanking.h"
+
+1541680852 source:c:\users\maxi_\desktop\tplab2modosopa\src\clsreloj.cpp
+	"clsReloj.h"
+
+1542141039 source:c:\users\maxi_\desktop\tplab2modosopa\src\clssopa.cpp
+	"clsSopa.h"
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1542168552 source:c:\users\maxi_\desktop\tplab2modosopa\src\clsjuego.cpp
+	"clsJuego.h"
+	<stdio.h>
+	<string.h>
+
+1541517884 source:c:\users\flia molina\desktop\sopaver14\tplab2modosopa\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1541517884 c:\users\flia molina\desktop\sopaver14\tplab2modosopa\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541517884 c:\users\flia molina\desktop\sopaver14\tplab2modosopa\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1541517884 c:\users\flia molina\desktop\sopaver14\tplab2modosopa\adn-x\clserror.h
+
+1541517884 source:c:\users\flia molina\desktop\sopaver14\tplab2modosopa\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1541517884 c:\users\flia molina\desktop\sopaver14\tplab2modosopa\adn-x\clsdot.h
+	"adnConsts.h"
+
+1541517884 source:c:\users\flia molina\desktop\sopaver14\tplab2modosopa\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1541517882 source:c:\users\flia molina\desktop\sopaver14\tplab2modosopa\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1541517882 c:\users\flia molina\desktop\sopaver14\tplab2modosopa\adn-x\clsevent.h
+	"adnConsts.h"
+
+1541517882 source:c:\users\flia molina\desktop\sopaver14\tplab2modosopa\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1541517882 c:\users\flia molina\desktop\sopaver14\tplab2modosopa\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1541517882 source:c:\users\flia molina\desktop\sopaver14\tplab2modosopa\adn-x\clslog.cpp
+	"clsLog.h"
+
+1541517882 c:\users\flia molina\desktop\sopaver14\tplab2modosopa\adn-x\clslog.h
+	<cstdio>
+
+1541517882 source:c:\users\flia molina\desktop\sopaver14\tplab2modosopa\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1541517882 c:\users\flia molina\desktop\sopaver14\tplab2modosopa\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541517882 source:c:\users\flia molina\desktop\sopaver14\tplab2modosopa\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1541517882 c:\users\flia molina\desktop\sopaver14\tplab2modosopa\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541517882 source:c:\users\flia molina\desktop\sopaver14\tplab2modosopa\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1541517882 c:\users\flia molina\desktop\sopaver14\tplab2modosopa\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1541517882 source:c:\users\flia molina\desktop\sopaver14\tplab2modosopa\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1541517882 c:\users\flia molina\desktop\sopaver14\tplab2modosopa\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541517882 source:c:\users\flia molina\desktop\sopaver14\tplab2modosopa\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1541517882 c:\users\flia molina\desktop\sopaver14\tplab2modosopa\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541517882 source:c:\users\flia molina\desktop\sopaver14\tplab2modosopa\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1541517882 c:\users\flia molina\desktop\sopaver14\tplab2modosopa\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1541517882 source:c:\users\flia molina\desktop\sopaver14\tplab2modosopa\adn-x\clstext.cpp
+	"clsText.h"
+
+1541517882 c:\users\flia molina\desktop\sopaver14\tplab2modosopa\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541517882 source:c:\users\flia molina\desktop\sopaver14\tplab2modosopa\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1541517868 c:\users\flia molina\desktop\sopaver14\tplab2modosopa\adn-x\clstimer.h
+	"clsEvent.h"
+
+1541778524 source:c:\users\flia molina\desktop\sopaver14\tplab2modosopa\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	<clsMotor.h>
+
+1542241257 c:\users\flia molina\desktop\sopaver14\tplab2modosopa\include\clsmotor.h
+	<clsEvent.h>
+	<clsMode.h>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsPresent.h>
+	<clsTimer.h>
+	"clsJuego.h"
+	<clsMenu.h>
+	<clsDespedida.h>
+
+1542241338 c:\users\flia molina\desktop\sopaver14\tplab2modosopa\include\clspresent.h
+	<clsSprite.h>
+	<clsScreen.h>
+
+1542240357 c:\users\flia molina\desktop\sopaver14\tplab2modosopa\include\clsjuego.h
+	<clsError.h>
+	<clsScreen.h>
+	<clsText.h>
+	<clsEvent.h>
+	<clsTimer.h>
+	"clsSopa.h"
+	"clsLetra.h"
+	"clsPalabra.h"
+	"clsReloj.h"
+	"clsRanking.h"
+	"clspresent.h"
+
+1542241495 c:\users\flia molina\desktop\sopaver14\tplab2modosopa\include\clssopa.h
+	<clsError.h>
+	<clsRandom.h>
+	"clsPalabra.h"
+
+1542241291 c:\users\flia molina\desktop\sopaver14\tplab2modosopa\include\clspalabra.h
+
+1542240403 c:\users\flia molina\desktop\sopaver14\tplab2modosopa\include\clsletra.h
+	<clsScreen.h>
+	<clsText.h>
+	<adnConsts.h>
+
+1542241427 c:\users\flia molina\desktop\sopaver14\tplab2modosopa\include\clsreloj.h
+	<clsScreen.h>
+	<clsText.h>
+	<adnConsts.h>
+
+1542241377 c:\users\flia molina\desktop\sopaver14\tplab2modosopa\include\clsranking.h
+	<clsScreen.h>
+	<clsText.h>
+	<clsEvent.h>
+
+1542241175 c:\users\flia molina\desktop\sopaver14\tplab2modosopa\include\clsmenu.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<clsError.h>
+	<clsPresent.h>
+	<clsBoton.h>
+	<clsTimer.h>
+	<clsDespedida.h>
+	"clsJuego.h"
+	"clsRanking.h"
+
+1542240246 c:\users\flia molina\desktop\sopaver14\tplab2modosopa\include\clsboton.h
+	<clsPresent.h>
+
+1542240303 c:\users\flia molina\desktop\sopaver14\tplab2modosopa\include\clsdespedida.h
+	<clsSprite.h>
+	<clsScreen.h>
+
+1542225032 source:c:\users\flia molina\desktop\sopaver14\tplab2modosopa\src\clsboton.cpp
+	<clsBoton.h>
+
+1542235737 source:c:\users\flia molina\desktop\sopaver14\tplab2modosopa\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1542231223 source:c:\users\flia molina\desktop\sopaver14\tplab2modosopa\src\clsletra.cpp
+	"clsLetra.h"
+
+1542232716 source:c:\users\flia molina\desktop\sopaver14\tplab2modosopa\src\clsmenu.cpp
+	"clsMenu.h"
+
+1542233543 source:c:\users\flia molina\desktop\sopaver14\tplab2modosopa\src\clsmotor.cpp
+	"clsMotor.h"
+
+1542241648 source:c:\users\flia molina\desktop\sopaver14\tplab2modosopa\src\clspalabra.cpp
+	"clsPalabra.h"
+	<cstring>
+
+1542237289 source:c:\users\flia molina\desktop\sopaver14\tplab2modosopa\src\clspresent.cpp
+	"clsPresent.h"
+
+1542237632 source:c:\users\flia molina\desktop\sopaver14\tplab2modosopa\src\clsranking.cpp
+	"clsRanking.h"
+
+1542237752 source:c:\users\flia molina\desktop\sopaver14\tplab2modosopa\src\clsreloj.cpp
+	"clsReloj.h"
+
+1542240009 source:c:\users\flia molina\desktop\sopaver14\tplab2modosopa\src\clssopa.cpp
+	"clsSopa.h"
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1542241616 source:c:\users\flia molina\desktop\sopaver14\tplab2modosopa\src\clsjuego.cpp
+	"clsJuego.h"
+	<cstdio>
+	<cstring>
+
+1541517884 source:c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1541517884 c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541517884 c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1541517884 c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\adn-x\clserror.h
+
+1541517884 source:c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1541517884 c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\adn-x\clsdot.h
+	"adnConsts.h"
+
+1541517884 source:c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1541517882 source:c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1541517882 c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\adn-x\clsevent.h
+	"adnConsts.h"
+
+1541517882 source:c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1541517882 c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1541517882 source:c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\adn-x\clslog.cpp
+	"clsLog.h"
+
+1541517882 c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\adn-x\clslog.h
+	<cstdio>
+
+1541517882 source:c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1541517882 c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541517882 source:c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1541517882 c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541517882 source:c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1541517882 c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1541517882 source:c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1541517882 c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541517882 source:c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1541517882 c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541517882 source:c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1541517882 c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1541517882 source:c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\adn-x\clstext.cpp
+	"clsText.h"
+
+1541517882 c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1541517882 source:c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1541517868 c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\adn-x\clstimer.h
+	"clsEvent.h"
+
+1541778524 source:c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	<clsMotor.h>
+
+1542241257 c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\include\clsmotor.h
+	<clsEvent.h>
+	<clsMode.h>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsPresent.h>
+	<clsTimer.h>
+	"clsJuego.h"
+	<clsMenu.h>
+	<clsDespedida.h>
+
+1542241338 c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\include\clspresent.h
+	<clsSprite.h>
+	<clsScreen.h>
+
+1542240357 c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\include\clsjuego.h
+	<clsError.h>
+	<clsScreen.h>
+	<clsText.h>
+	<clsEvent.h>
+	<clsTimer.h>
+	"clsSopa.h"
+	"clsLetra.h"
+	"clsPalabra.h"
+	"clsReloj.h"
+	"clsRanking.h"
+	"clspresent.h"
+
+1542241495 c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\include\clssopa.h
+	<clsError.h>
+	<clsRandom.h>
+	"clsPalabra.h"
+
+1542241291 c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\include\clspalabra.h
+
+1542240403 c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\include\clsletra.h
+	<clsScreen.h>
+	<clsText.h>
+	<adnConsts.h>
+
+1542241427 c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\include\clsreloj.h
+	<clsScreen.h>
+	<clsText.h>
+	<adnConsts.h>
+
+1542241377 c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\include\clsranking.h
+	<clsScreen.h>
+	<clsText.h>
+	<clsEvent.h>
+
+1542241175 c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\include\clsmenu.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<clsError.h>
+	<clsPresent.h>
+	<clsBoton.h>
+	<clsTimer.h>
+	<clsDespedida.h>
+	"clsJuego.h"
+	"clsRanking.h"
+
+1542240246 c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\include\clsboton.h
+	<clsPresent.h>
+
+1542240303 c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\include\clsdespedida.h
+	<clsSprite.h>
+	<clsScreen.h>
+
+1542225032 source:c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\src\clsboton.cpp
+	<clsBoton.h>
+
+1542235737 source:c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1542241616 source:c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\src\clsjuego.cpp
+	"clsJuego.h"
+	<cstdio>
+	<cstring>
+
+1542231223 source:c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\src\clsletra.cpp
+	"clsLetra.h"
+
+1542232716 source:c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\src\clsmenu.cpp
+	"clsMenu.h"
+
+1542233543 source:c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\src\clsmotor.cpp
+	"clsMotor.h"
+
+1542241648 source:c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\src\clspalabra.cpp
+	"clsPalabra.h"
+	<cstring>
+
+1542237289 source:c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\src\clspresent.cpp
+	"clsPresent.h"
+
+1542237632 source:c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\src\clsranking.cpp
+	"clsRanking.h"
+
+1542237752 source:c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\src\clsreloj.cpp
+	"clsReloj.h"
+
+1542241691 source:c:\users\flia molina\desktop\tp02 lab ii - fernandez, molina\sopa de letras\src\clssopa.cpp
+	"clsSopa.h"
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+

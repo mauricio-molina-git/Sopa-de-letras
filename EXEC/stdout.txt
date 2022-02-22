@@ -1,0 +1,176 @@
+##########################################################
+           Sistema ADN-X (v. 14.11 estable)
+**********************************************************
+
+Modo grafico iniciado correctamente.
+Monitor de video iniciado correctamente.
+Generador de numeros aleatorios iniciado correctamente.
+Ubicando [0] ESTRUCTURADO
+Ubicando [0] ESTRUCTURADO
+Ubicando [0] ESTRUCTURADO
+Ubicando [0] ESTRUCTURADO
+Ubicando [0] ESTRUCTURADO
+Ubicando [0] ESTRUCTURADO
+Ubicando [0] ESTRUCTURADO
+Ubicando [0] ESTRUCTURADO
+Ubicando [0] ESTRUCTURADO
+Ubicando [0] ESTRUCTURADO
+Ubicando [0] ESTRUCTURADO
+Ubicando [1] ALGORITMO
+Ubicando [2] ASSEMBLER
+Ubicando [2] ASSEMBLER
+Ubicando [2] ASSEMBLER
+Ubicando [2] ASSEMBLER
+Ubicando [2] ASSEMBLER
+Ubicando [2] ASSEMBLER
+Ubicando [2] ASSEMBLER
+Ubicando [2] ASSEMBLER
+Ubicando [2] ASSEMBLER
+Ubicando [2] ASSEMBLER
+Ubicando [2] ASSEMBLER
+Ubicando [3] PROGRAMA
+Ubicando [3] PROGRAMA
+Ubicando [3] PROGRAMA
+Ubicando [3] PROGRAMA
+Ubicando [4] DIAGRAMA
+Ubicando [4] DIAGRAMA
+Ubicando [4] DIAGRAMA
+Ubicando [4] DIAGRAMA
+Ubicando [4] DIAGRAMA
+Ubicando [5] PYTHON
+Ubicando [6] LOGICA
+Generador de numeros aleatorios iniciado correctamente.
+Ubicando [0] ESTRUCTURADO
+Ubicando [0] ESTRUCTURADO
+Ubicando [1] ALGORITMO
+Ubicando [1] ALGORITMO
+Ubicando [1] ALGORITMO
+Ubicando [2] ASSEMBLER
+Ubicando [3] PROGRAMA
+Ubicando [3] PROGRAMA
+Ubicando [3] PROGRAMA
+Ubicando [4] DIAGRAMA
+Ubicando [5] PYTHON
+Ubicando [5] PYTHON
+Ubicando [5] PYTHON
+Ubicando [5] PYTHON
+Ubicando [5] PYTHON
+Ubicando [5] PYTHON
+Ubicando [5] PYTHON
+Ubicando [5] PYTHON
+Ubicando [6] LOGICA
+Ubicando [6] LOGICA
+Ubicando [6] LOGICA
+Ubicando [6] LOGICA
+Ubicando [6] LOGICA
+Ubicando [6] LOGICA
+Ubicando [6] LOGICA
+Ubicando [6] LOGICA
+Ubicando [6] LOGICA
+Ubicando [6] LOGICA
+Ubicando [6] LOGICA
+Ubicando [6] LOGICA
+Ubicando [6] LOGICA
+Generador de numeros aleatorios iniciado correctamente.
+Ubicando [0] ESTRUCTURADO
+Ubicando [0] ESTRUCTURADO
+Ubicando [0] ESTRUCTURADO
+Ubicando [0] ESTRUCTURADO
+Ubicando [0] ESTRUCTURADO
+Ubicando [0] ESTRUCTURADO
+Ubicando [0] ESTRUCTURADO
+Ubicando [0] ESTRUCTURADO
+Ubicando [0] ESTRUCTURADO
+Ubicando [0] ESTRUCTURADO
+Ubicando [0] ESTRUCTURADO
+Ubicando [0] ESTRUCTURADO
+Ubicando [0] ESTRUCTURADO
+Ubicando [0] ESTRUCTURADO
+Ubicando [0] ESTRUCTURADO
+Ubicando [1] ALGORITMO
+Ubicando [1] ALGORITMO
+Ubicando [1] ALGORITMO
+Ubicando [1] ALGORITMO
+Ubicando [1] ALGORITMO
+Ubicando [1] ALGORITMO
+Ubicando [1] ALGORITMO
+Ubicando [1] ALGORITMO
+Ubicando [1] ALGORITMO
+Ubicando [1] ALGORITMO
+Ubicando [1] ALGORITMO
+Ubicando [1] ALGORITMO
+Ubicando [2] ASSEMBLER
+Ubicando [2] ASSEMBLER
+Ubicando [2] ASSEMBLER
+Ubicando [2] ASSEMBLER
+Ubicando [2] ASSEMBLER
+Ubicando [2] ASSEMBLER
+Ubicando [2] ASSEMBLER
+Ubicando [2] ASSEMBLER
+Ubicando [2] ASSEMBLER
+Ubicando [3] PROGRAMA
+Ubicando [3] PROGRAMA
+Ubicando [3] PROGRAMA
+Ubicando [3] PROGRAMA
+Ubicando [3] PROGRAMA
+Ubicando [3] PROGRAMA
+Ubicando [4] DIAGRAMA
+Ubicando [4] DIAGRAMA
+Ubicando [4] DIAGRAMA
+Ubicando [4] DIAGRAMA
+Ubicando [5] PYTHON
+Ubicando [6] LOGICA
+Ubicando [6] LOGICA
+
+**********************************************************
+       El proyecto ADN-X ha finalizado correctamente      
+##########################################################
+El texto FONTS/FreeMono.ttf se cerro correctamente.
+El texto FONTS/FreeMono.ttf se cerro correctamente.
+El texto FONTS/FreeMono.ttf se cerro correctamente.
+El texto FONTS/FreeMono.ttf se cerro correctamente.
+El texto FONTS/FreeMono.ttf se cerro correctamente.
+El texto FONTS/FreeMono.ttf se cerro correctamente.
+El texto FONTS/FreeMono.ttf se cerro correctamente.
+El texto FONTS/FreeMono.ttf se cerro correctamente.
+El texto FONTS/FreeMono.ttf se cerro correctamente.
+El texto FONTS/FreeMono.ttf se cerro correctamente.
+Se destruyo la imagen0 del sprite sin Nombre
+Se destruyeron la imagenes del sprite sin Nombre
+Se destruyo la imagen0 del sprite sin Nombre
+Se destruyeron la imagenes del sprite sin Nombre
+El texto  se cerro correctamente.
+El texto ¥„x se cerro correctamente.
+El texto ¨‡x se cerro correctamente.
+El texto  se cerro correctamente.
+El texto ¿]f=Ä‚x se cerro correctamente.
+El texto  se cerro correctamente.
+El texto  se cerro correctamente.
+El texto ‰’x se cerro correctamente.
+El texto  se cerro correctamente.
+El texto Y se cerro correctamente.
+El texto FONTS/FreeMono.ttf se cerro correctamente.
+Se destruyo la imagen0 del sprite sin Nombre
+Se destruyeron la imagenes del sprite sin Nombre
+Se destruyo la imagen0 del sprite sin Nombre
+Se destruyeron la imagenes del sprite sin Nombre
+Se destruyo la imagen0 del sprite sin Nombre
+Se destruyeron la imagenes del sprite sin Nombre
+Se destruyo la imagen0 del sprite sin Nombre
+Se destruyeron la imagenes del sprite sin Nombre
+Se destruyo la imagen0 del sprite sin Nombre
+Se destruyeron la imagenes del sprite sin Nombre
+Se destruyo la imagen0 del sprite sin Nombre
+Se destruyeron la imagenes del sprite sin Nombre
+Se destruyo la imagen0 del sprite sin Nombre
+Se destruyeron la imagenes del sprite sin Nombre
+Se destruyo la imagen0 del sprite sin Nombre
+Se destruyeron la imagenes del sprite sin Nombre
+Se destruyo la imagen0 del sprite sin Nombre
+Se destruyeron la imagenes del sprite sin Nombre
+Se destruyo la imagen0 del sprite sin Nombre
+Se destruyeron la imagenes del sprite sin Nombre
+Se destruyo la imagen0 del sprite sin Nombre
+Se destruyeron la imagenes del sprite sin Nombre
+Monitor de video cerrado correctamente.
+El modo grafico se cerro correctamente.

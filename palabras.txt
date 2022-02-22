@@ -1,0 +1,9 @@
+programa
+python
+algoritmo
+diagrama
+logica
+assembler
+estructurado
+
+
